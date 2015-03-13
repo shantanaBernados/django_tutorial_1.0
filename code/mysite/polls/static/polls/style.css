@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("https://ununsplash.imgix.net/photo-1422022098106-b3a9edc463af?fit=crop&fm=jpg&h=700&q=75&w=1050") no-repeat;
+    background-size: 100% 100%;
+}
